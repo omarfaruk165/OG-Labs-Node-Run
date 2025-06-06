@@ -206,7 +206,7 @@ rm -rf $HOME/0g-storage-node
 
 DONE!!
 
-👉 Join TG for more Updates: https://telegram.me/cryptogg
+👉 Join TG for more Updates: https://t.me/Learn_ToEarn
 
 If U have any issue then open a issue on this repo or Dm me on TG~
 
